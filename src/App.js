@@ -1,7 +1,10 @@
-
-function App() {
+import React, { useEffect } from "react";
+const App=(props)=>{
+  useEffect(()=>{
+    
+  })
   return (
-    <div className="App">
+    <div>
     
     </div>
   );
